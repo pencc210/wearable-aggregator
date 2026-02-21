@@ -10,7 +10,7 @@ SENT = "sent"
 FAILED = "failed"
 
 # ---- Server endpoint ----
-SERVER_URL = "http://127.0.0.1:8000/upload"
+SERVER_URL = "https://worker-health-aggregator.onrender.com/upload"
 
 # ---- Allowed bucket values ----
 ALLOWED_BUCKETS = {
