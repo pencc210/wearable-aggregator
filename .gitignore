@@ -3,4 +3,7 @@ __pycache__/
 incoming/
 sent/
 failed/
+__pycache__/
+server/__pycache__/
+server/counts.db
 .env
